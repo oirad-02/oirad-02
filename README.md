@@ -26,12 +26,6 @@ I'm a passionate computer science student and robotics enthusiast, standing at t
 - Develop innovative solutions in robotics to improve people's lives
 - Stay at the forefront of technology and continuously expand my knowledge
 
-## 📫 How to reach me:
-[You can add your preferred contact methods here]
-
-## ⚡ Fun fact:
-[You can add a fun fact about yourself related to tech or robotics]
-
 I'm always open to new challenges, collaborations, and opportunities to deepen my knowledge in the fascinating world of robotics and computer science!
 
 
